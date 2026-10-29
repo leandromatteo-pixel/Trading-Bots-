@@ -1,0 +1,22 @@
+{
+  "created_by": "trader-entry",
+  "symbol": "KOD",
+  "setup": "orb",
+  "side": "buy",
+  "date": "2026-10-29",
+  "status": "triggered",
+  "time": "9:50 AM",
+  "bar_start": "09:45",
+  "bar_index": 3,
+  "price": 102.7,
+  "level": 100.67,
+  "interval": "5m",
+  "opening_range": {
+    "high": 100.67,
+    "low": 96.0,
+    "minutes": 15
+  },
+  "source": "yahoo",
+  "checked_at": "2026-10-29T14:02:22Z",
+  "reason": "the 9:45 bar closed above the range high"
+}
