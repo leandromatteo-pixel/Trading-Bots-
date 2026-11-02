@@ -442,6 +442,7 @@ ASML|ASML Holding N.V. - New York Registry Shares
 ASND|Ascendis Pharma A/S - Ordinary Share
 ASO|Academy Sports and Outdoors, Inc. - Common Stock
 ASPC|A SPAC III Acquisition Corp. - Class A Ordinary Shares
+ASPE|Aspen Neuroscience, Inc. - Common Stock
 ASPI|ASP Isotopes Inc. - Common Stock
 ASPN|Aspen Aerogels, Inc. Common Stock
 ASPS|Altisource Portfolio Solutions S.A. - Common Stock
@@ -605,6 +606,7 @@ BBNX|Beta Bionics, Inc. - Common Stock
 BBOT|BridgeBio Oncology Therapeutics, Inc. - Common Stock
 BBSI|Barrett Business Services, Inc. - Common Stock
 BBT|Beacon Financial Corporation Common stock
+BBTX|Bambusa Therapeutics, Inc. - Common stock
 BBUC|Brookfield Business Corporation Class A Subordinate Voting Shares
 BBVA|Banco Bilbao Vizcaya Argentaria S.A. Common Stock
 BBW|Build-A-Bear Workshop, Inc. Common Stock
@@ -974,6 +976,7 @@ CARR|Carrier Global Corporation Common Stock
 CARS|Cars.com Inc. Common Stock
 CART|Maplebear Inc. - Common Stock
 CASH|Pathward Financial, Inc. - Common Stock
+CASK|Sempreon, Inc. - Common Stock
 CASS|Cass Information Systems, Inc - Common Stock
 CAST|FreeCast, Inc. - Class A common stock
 CASY|Caseys General Stores, Inc. - Common Stock
@@ -1002,7 +1005,6 @@ CBSH|Commerce Bancshares, Inc. - Common Stock
 CBT|Cabot Corporation Common Stock
 CBU|Community Financial System, Inc. Common Stock
 CBUS|Cibus, Inc. - Class A Common Stock
-CBZ|CBIZ, Inc. Common Stock
 CC|Chemours Company (The) Common Stock
 CCAP|Crescent Capital BDC, Inc. - Common Stock
 CCAQ|Collective Acquisition Corp. - Class A ordinary shares
@@ -1647,7 +1649,6 @@ DXYZ|Destiny Tech100 Inc. Common Stock
 DY|Dycom Industries, Inc. Common Stock
 DYAI|Dyadic International, Inc. - Common Stock
 DYN|Dyne Therapeutics, Inc. - Common Stock
-DYNC|Dynamix Corporation - Class A Ordinary Share
 DYOR|Insight Digital Partners II - Class A Ordinary Shares
 E|ENI S.p.A. Common Stock
 EAD|Allspring Income Opportunities Fund Common Shares
@@ -2187,7 +2188,6 @@ GCL|GCL Global Holdings Ltd - Ordinary Shares
 GCMG|GCM Grosvenor Inc. - Class A Common Stock
 GCO|Genesco Inc. Common Stock
 GCT|GigaCloud Technology Inc - Class A Ordinary Shares
-GCTK|GlucoTrack, Inc. - Common Stock
 GCTS|GCT Semiconductor Holding, Inc. Common Stock
 GCV|Gabelli Convertible and Income Securities Fund, Inc. (The) Common Stock
 GD|General Dynamics Corporation Common Stock
@@ -2854,7 +2854,7 @@ JAN|Janus Living, Inc. Class A-1 Common Stock
 JANX|Janux Therapeutics, Inc. - Common Stock
 JATT|JATT II Acquisition Corp - Ordinary Shares
 JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares
-JBDI|JBDI Holdings Limited - Ordinary Shares
+JBDI|JBDI Holdings Limited - Class A Ordinary Shares
 JBGS|JBG SMITH Properties Common Shares
 JBHT|J.B. Hunt Transport Services, Inc. - Common Stock
 JBI|Janus International Group, Inc. Common Stock
@@ -3039,7 +3039,6 @@ KULR|KULR Technology Group, Inc. Common Stock
 KURA|Kura Oncology, Inc. - Common Stock
 KUST|Kustom Entertainment, Inc. - Common Stock
 KVHI|KVH Industries, Inc. - Common Stock
-KVUE|Kenvue Inc. Common Stock
 KVYO|Klaviyo, Inc. Series A Common Stock
 KWR|Quaker Houghton Common Stock
 KWY|Kingsway Corporation Common Stock
@@ -3165,7 +3164,6 @@ LMND|Lemonade, Inc. Common Stock
 LMNR|Limoneira Co - Common Stock
 LMRI|Lumexa Imaging Holdings, Inc. - Common Stock
 LMT|Lockheed Martin Corporation Common Stock
-LNAI|Lunai Bioworks Inc. - Common Stock
 LNC|Lincoln National Corporation Common Stock
 LND|Brasilagro Brazilian Agric Real Estate Co Sponsored ADR (Brazil)
 LNG|Cheniere Energy, Inc. Common Stock
@@ -3245,7 +3243,6 @@ LX|LexinFintech Holdings Ltd. - American Depositary Shares
 LXEH|Lixiang Education Holding Co., Ltd. - American Depositary Shares
 LXEO|Lexeo Therapeutics, Inc. - Common Stock
 LXFR|Luxfer Holdings PLC Ordinary Shares
-LXP|LXP Industrial Trust Common Stock (Maryland REIT)
 LXRX|Lexicon Pharmaceuticals, Inc. - Common Stock
 LXU|LSB Industries, Inc. Common Stock
 LYB|LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)
@@ -3380,7 +3377,6 @@ MGM|MGM Resorts International Common Stock
 MGN|Megan Holdings Limited - Class A Ordinary Shares
 MGNI|Magnite, Inc. - Common Stock
 MGNX|MacroGenics, Inc. - Common Stock
-MGPI|MGP Ingredients, Inc. - Common Stock
 MGRC|McGrath RentCorp - Common Stock
 MGRT|Mega Fortune Company Limited - Ordinary Shares
 MGRX|Mangoceuticals, Inc. - Common Stock
@@ -3609,6 +3605,7 @@ NAMM|Namib Minerals - Ordinary Shares
 NAMS|NewAmsterdam Pharma Company N.V. - Ordinary Shares
 NAN|Nuveen New York Quality Municipal Income Fund Common Stock
 NANO|Forge Nano Holdings Inc. - Common stock
+NARA|Narragansett Bancorp, Inc. - Common Stock
 NAT|Nordic American Tankers Limited Common Stock
 NATL|NCR Atleos Corporation Common Stock
 NATR|Nature's Sunshine Products, Inc. - Common Stock
@@ -3756,6 +3753,7 @@ NOG|Northern Oil and Gas, Inc. Common Stock
 NOK|Nokia Corporation Sponsored American Depositary Shares
 NOMA|NOMADAR Corp. - Class A Common Stock
 NOMD|Nomad Foods Limited Ordinary Shares
+NORD|Nordicus Partners Corporation - Common Stock
 NOV|NOV Inc. Common Stock
 NOVT|Novanta Inc. - Common Shares
 NOW|ServiceNow, Inc. Common Stock
@@ -3978,6 +3976,7 @@ ONTO|Onto Innovation Inc. Common Stock
 OOMA|Ooma, Inc. Common Stock
 OPAD|Offerpad Solutions Inc. - Class A Common Stock
 OPAL|OPAL Fuels Inc. - Class A Common Stock
+OPAY|OPay Limited American Depositary Shares, each representing ten Ordinary Shares
 OPBK|OP Bancorp - Common Stock
 OPCH|Option Care Health, Inc. - Common Stock
 OPEN|Opendoor Technologies Inc - Common Stock
@@ -4438,7 +4437,6 @@ RADX|Radiopharm Theranostics Limited - American Depositary Shares
 RAIL|Freightcar America, Inc. - Common Stock
 RAIN|Rain Enhancement Technologies Holdco, Inc. - Class A Common Stock
 RAL|Ralliant Corporation Common Stock
-RAMP|LiveRamp Holdings, Inc. Common Stock
 RAND|Rand Capital Corporation - Closed End Fund
 RANG|Range Capital Acquisition Corp. - Ordinary Shares
 RANI|Rani Therapeutics Holdings, Inc. - Class A Common Stock
@@ -5874,7 +5872,6 @@ YEXT|Yext, Inc. Common Stock
 YFOR|YYForce Inc. - Class A Ordinary Shares
 YHC|LQR House Inc. - Common Stock
 YHGJ|Yunhong Green CTI Ltd. - Common Stock
-YHNA|YHN Acquisition I Limited - Ordinary Shares
 YI|111, Inc. - American Depositary Shares
 YIBO|Planet Image International Limited - Class A Ordinary Shares
 YICC|Yorkville International Capital Corp. - Class A Ordinary Shares
