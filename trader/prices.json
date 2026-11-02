@@ -1,0 +1,16 @@
+{
+  "as_of": "2026-11-02T15:46:39Z",
+  "source": "yahoo",
+  "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills. detail.fetched is when each price was read.",
+  "prices": {
+    "DOCN": 92.795
+  },
+  "detail": {
+    "DOCN": {
+      "prev_close": 89.65,
+      "time": "2026-11-02T15:46:30Z",
+      "source": "yahoo",
+      "fetched": "2026-11-02T15:46:39Z"
+    }
+  }
+}
