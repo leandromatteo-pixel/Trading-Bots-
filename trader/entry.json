@@ -1,22 +1,22 @@
 {
   "created_by": "trader-entry",
-  "symbol": "DOCN",
+  "symbol": "NVDA",
   "setup": "orb",
   "side": "buy",
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "status": "triggered",
-  "time": "10:25 AM",
-  "bar_start": "10:20",
-  "bar_index": 10,
-  "price": 92.0,
-  "level": 90.85,
+  "time": "9:50 AM",
+  "bar_start": "09:45",
+  "bar_index": 3,
+  "price": 177.44,
+  "level": 176.45,
   "interval": "5m",
   "opening_range": {
-    "high": 90.85,
-    "low": 86.72,
+    "high": 176.45,
+    "low": 171.25,
     "minutes": 15
   },
   "source": "yahoo",
-  "checked_at": "2026-11-02T15:43:28Z",
-  "reason": "the 10:20 bar closed above the range high"
+  "checked_at": "2026-11-09T20:37:54Z",
+  "reason": "the 9:45 bar closed above the range high"
 }
